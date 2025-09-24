@@ -23,8 +23,11 @@
 > Baggage management system for airport employees | Flask + MySQL + Bootstrap  
 
 ### 🔹 [Yool Data Analysis](https://github.com/ihssane-hiba/formation-digitale-dashboard)
-> Data Science project analyzing digital learning trends | Python + Pandas + NLP  
+> Data Science project analyzing digital learning trends | Python + Pandas + NLP
 
+
+### 🔹 [Smart Traffic Light](https://github.com/MbarekTech/Smart_traffic_lights)
+> AI-powered urban traffic optimization system | Python + TensorFlow + OpenCV 
 
 ---
 
